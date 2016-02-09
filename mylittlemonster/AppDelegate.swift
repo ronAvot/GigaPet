@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  mylittlemonster
 //
-//  Created by Mark Price on 8/6/15.
+//  Created by Ron Avot on 8/6/15.
 //  Copyright © 2015 devslopes. All rights reserved.
 //
 
